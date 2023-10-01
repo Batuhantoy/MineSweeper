@@ -1,4 +1,4 @@
-![](\ss\1.PNG)
+![](/ss/1.PNG)
 Oyun başladı bizi oyun hakkında bilgilendirdi ve ismimizi istedi. 
 
 Daha sonra oyun menüsü geldi 3 seçenegimiz var;
@@ -10,7 +10,7 @@ Daha sonra oyun menüsü geldi 3 seçenegimiz var;
 3 - Çıkış
 
 
-![](ss\3.PNG)
+![](/ss/3.PNG)
 Bizden satır sütun alır ve o noktada mayın olup olmadığını kontrol eder, eğer mayın yoksa o nokta etrafındaki mayın sayısını o noktaya yazdırır
 
 
